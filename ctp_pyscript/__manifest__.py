@@ -8,7 +8,7 @@
 
 {
     'name': 'Pyscript',
-    'version': '16.0.0.0.1',
+    'version': '15.0.0.0.1',
     'summary': """ 
             Install Pyscript in Odoo Frontend
             .""",
